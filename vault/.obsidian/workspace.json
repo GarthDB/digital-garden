@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "9da72ce8e93deadd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2377602dcca55e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f7d7e7e9848251c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Recipes/Beef Bulgogi Tacos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56ac948e510f73e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd1c1bfa2ba4d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e26aaad1fa2b4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37c65971c467816d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75ffd794beecdf74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "791dc8fe71815e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5bcb1b13c718926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08aa3a9666ca6341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/Recipes/Beef Bulgogi Tacos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "948b56c885abf252",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/Recipes/Beef Bulgogi Tacos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e195714c3c5f102",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f7da47e33e19c73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/Recipes/Beef Bulgogi Tacos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9f7d7e7e9848251c",
+  "lastOpenFiles": [
+    "recipes/Recipes/Chipotle Hollandaise.md",
+    "recipes/Recipes/Brisket.md",
+    "recipes/Recipes/Birria.md",
+    "recipes/Recipes/Beef Bulgogi Tacos.md",
+    "recipes/Recipes/Avocado Eggs Benedict.md",
+    "recipes/Recipes/Test Page.md",
+    "recipes/Recipes/Iced Tea + Grenadine.md",
+    "recipes/Recipes/Tacos Campechanos.md",
+    "recipes/Recipes/Sugar Cookies.md",
+    "recipes/Recipes/Sticky Bums.md",
+    "recipes/Recipes/Snickerdoodles.md",
+    "recipes/Recipes/Smoker Recipes.md",
+    "recipes/Recipes/Smoker Recipes/Untitled Database 07045eda112644218984df5898467beb/Untitled ba3f93cfb26d47bba8426bb38baeb66b.md",
+    "recipes/Recipes/Smoker Recipes/Untitled Database 07045eda112644218984df5898467beb/Untitled 6d2a75abd77347bd98787e99757d07f6.md",
+    "recipes/Recipes/Smoker Recipes/Untitled Database 07045eda112644218984df5898467beb/Untitled 21a6b63ef0a442ba8c06975a37df2fc9.md",
+    "recipes/Recipes/Smoker Recipes/Untitled Database 07045eda112644218984df5898467beb.csv",
+    "recipes/Recipes/Smoker Recipes/Untitled Database 07045eda112644218984df5898467beb",
+    "recipes/Recipes/Smoker Recipes",
+    "recipes/Recipes/Salsa Callejera.md",
+    "recipes/Recipes/Salsa.md",
+    "recipes/Recipes/Rocky Mountain Elk Marinade.md",
+    "recipes/Recipes/Roasted Potatoes.md",
+    "recipes/Recipes/Reese's Pieces Peanut Butter Fluffernutter Cookies.md",
+    "recipes/Recipes/Pommes Aligot.md",
+    "recipes/Recipes/Mom's Brownies.md",
+    "recipes/Recipes/Memphis Dust.md",
+    "recipes/Recipes/Mashed Potatoes.md",
+    "recipes/Recipes/Mango Salsa.md",
+    "recipes/Recipes/Kiss cookies.md",
+    "recipes/Recipes/German Pancakes/Evernote_20150325_183120.m4a",
+    "recipes/Recipes/German Pancakes",
+    "recipes/Recipes 7eeae55b95f442139e0d13e6051f2e2f/Brisket 713ada1343ec4e4fa950e878be8b2fda/Untitled.png",
+    "recipes/Recipes/Smoker Recipes 731f2063a7364cab8670f8370e35297f/Untitled Database 07045eda112644218984df5898467beb.csv",
+    "recipes/Recipes/Smoker Recipes 731f2063a7364cab8670f8370e35297f/Untitled Database 07045eda112644218984df5898467beb",
+    "recipes/Recipes/German Pancakes 056e42a5647e436a94f7ebde898b9e0c/Evernote_20150325_183120.m4a",
+    "recipes/Recipes/Brisket/Untitled.png",
+    "recipes/Recipes/Smoker Recipes 731f2063a7364cab8670f8370e35297f",
+    "recipes/Recipes/German Pancakes 056e42a5647e436a94f7ebde898b9e0c"
+  ]
+}
